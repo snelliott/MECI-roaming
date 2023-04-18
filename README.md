@@ -10,12 +10,14 @@ MIT license
 
 ### Files
 - Anti-Meci  
-  - Single-state input files
-      - me_anti_rotd3_ms.inp
+  - Single-state input
       - me_anti_rotd3_1s.inp
-  - Rapid-Roaming input files
-      - me_anti_rr3.inp
+  - Multi-state input (reference)
+      - me_anti_rotd3_ms.inp
+  - Rapid-roaming single-state input 
       - me_anti_rr3_1s.inp
+  - Rapid-roaming multi-state input
+      - me_anti_rr3_ms.inp
   - Potential energy surfaces
     - anti1.dat
     - anti2_ts.dat
@@ -26,12 +28,14 @@ MIT license
     - ne_ch3ch2co+ch2oh_lr.dat
     
 - Syn-Meci
-  - Single-state input files
-    - me_syn_rotd3_ms.inp
+  - Single-state input
     - me_syn_rotd3_1s.inp
-  - Rapid-Roaming input files
-    - me_syn_rr3.inp
+  - Multi-state input (reference)
+    - me_syn_rotd3_ms.inp
+  - Rapid-roaming single-state input 
     - me_syn_rr3_1s.inp
+  - Rapid-roaming multi-state input
+    - me_syn_rr3_ms.inp
   - Potential energy surfaces
     - syn1.dat
     - syn1_ts.dat
